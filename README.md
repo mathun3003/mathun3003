@@ -13,7 +13,7 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
 
 ### Tech Stack
 
-- Languages: Python, R, Java, JavaScript, C++
+- Languages: Python, R, Java, JavaScript, C/C++
 - Machine Learning: PyTorch, TensorFlow/Keras, Scikit-Learn
 - Data Science: Pandas, NumPy, PySpark, Matplotlib
 - Backend: FastAPI, Flask, Django, PyTest
