@@ -8,7 +8,6 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
 
 - 👨‍🎓 Information Systems (M.Sc.) @ University of Münster, Germany (Specializations: Data Analytics & Computer Science)
 - 🖥️ 2+ years of experience in Data Science and Software Engineering
-- 😄 Pronouns: He/Him
 - 🤝 Data Science and Deep Learning Mentor @ TechLabs Münster, Germany
 
 ### Tech Stack
@@ -17,3 +16,10 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
 - Machine Learning: PyTorch, TensorFlow/Keras, Scikit-Learn
 - Data Science: Pandas, NumPy, PySpark, Matplotlib
 - Backend: FastAPI, Flask, Django, PyTest
+
+### LeetCode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/mathun3003?theme=auto&font=baloo&extension=null)
+
+  </div>
