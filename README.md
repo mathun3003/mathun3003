@@ -13,9 +13,9 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
 ### Tech Stack
 
 - Languages: Python, R, Java, JavaScript, C/C++
-- Machine Learning: PyTorch, TensorFlow/Keras, Scikit-Learn
-- Data Science: Pandas, NumPy, PySpark, Matplotlib
-- Backend: FastAPI, Flask, Django, PyTest
+- Machine Learning: PyTorch, TensorFlow/Keras, Scikit-Learn, Hugging Face, spaCy
+- Data Science: Pandas, NumPy, PySpark, Matplotlib, NLTK
+- Backend: FastAPI, Flask, Django, PyTest, Spring Boot, JUnit
 
 ### LeetCode
   <div align="center">
@@ -23,3 +23,10 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
   ![LeetCode Stats](https://leetcode.card.workers.dev/mathun3003?theme=auto&font=baloo&extension=null)
 
   </div>
+
+### GitHub Stats
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathun3003&theme=graywhite&hide=assembly&include_all_commits=false&count_private=false&layout=compact)
+   
+</div>
