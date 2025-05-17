@@ -17,16 +17,10 @@ I'm an Information Systems Master's student with keen interest in Machine Learni
 - Data Science: Pandas, NumPy, PySpark, Matplotlib, NLTK
 - Backend: FastAPI, Flask, Django, PyTest, Spring Boot, JUnit
 
-### LeetCode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/mathun3003?theme=auto&font=baloo&extension=null)
-
-  </div>
-
 ### GitHub Stats
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathun3003&theme=graywhite&hide=assembly&include_all_commits=false&count_private=false&layout=compact)
-   
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mathun3003&hide=contribs&show_icons=true&theme=github_dark&&rank_icon=github&hide_progress=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathun3003&theme=github_dark&amp;layout=compact&amp;langs_count=8&amp;card_width=320" />
+</a>
